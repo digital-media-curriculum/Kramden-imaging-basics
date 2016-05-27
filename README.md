@@ -1,2 +1,2 @@
-# Kramden-imaging-basics
-Máirín Duffy's Inkscape files adapted for use by Kramden Institute
+# Kramden-digital-media
+Máirín Duffy's Inkscape worsheet files adapted for use by Kramden Institute's workshops.
