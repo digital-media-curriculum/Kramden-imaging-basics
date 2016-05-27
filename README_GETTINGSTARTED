@@ -1,9 +1,13 @@
 Images for use with workshop as well as those included in the worksheet are in the public domain, courtesy of pixabay.com
 
 The folder 0_basics includes files beginning with:
-  1_ images for illustrating pixel resolution and zoom/pan
-  2_ images for creating subtle/drastic changes to color/value
-  3_ patterns for experimenting with layers, layer opacity, and blending modes. (includes an example GIMP file (3_LayersBurger.xcf)
-  4_ images for experimenting with the color picker/bucket fill tool
+  1_          images for illustrating pixel resolution and zoom/pan
+  2_          images for creating subtle/drastic changes to color/value
+  3_          patterns for experimenting with layers, layer opacity, and blending modes. (includes an example GIMP file (3_LayersBurger.xcf)
+  4_          images for experimenting with the color picker/bucket fill tool
   
-The folder 1_masking includes 
+The folder 1_masking includes the example GIMP file (0_example_Warrior.xcf) and 3 subfolders:
+  animals     images for 'cutting out' with a mask
+  locations   backgrounds for the 'cut out' animals to populate
+  miscProps   additonal images for 'cutting out'
+  
